@@ -9657,7 +9657,7 @@ a3u:function(a){var u=C.u7.pG(a,0,new A.a0B()),t=536870911&u+((67108863&u)<<3)
 t^=t>>>11
 return 536870911&t+((16383&t)<<15)},
 a0B:function a0B(){},
-cg:function(){var u=P.ht("http://96.45.181.208:5000/")
+cg:function(){var u=P.ht("https://ajanuw.xyz/")
 return u}},Q={kC:function kC(a){this.a=a},VH:function VH(a,b){var _=this
 _.d=a
 _.a=null

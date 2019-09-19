@@ -3996,6 +3996,12 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
+breakpoints
+flutter_imagenetwork
+
+TODO: Add your license here.
+
+--------------------------------------------------------------------------------
 build_daemon
 checked_yaml
 
@@ -4866,11 +4872,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
---------------------------------------------------------------------------------
-flutter_imagenetwork
-
-TODO: Add your license here.
-
 --------------------------------------------------------------------------------
 flutter_markdown
 
